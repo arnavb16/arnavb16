@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @arnavb16
-- 👀 I’m interested in Python
+- 👋 Hi, I’m Arnav Bajaj
+- 👀 I’m interested in Data Science and Sports
 - 🌱 I’m currently learning - Python, SQL
 - 📫 How to reach me - arnav.bajaj.16@gmail.com
 
