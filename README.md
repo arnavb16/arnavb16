@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arnavb16
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning - Python, R
+- 🌱 I’m currently learning - Python, SQL
 - 📫 How to reach me - arnav.bajaj.16@gmail.com
 
 <!---
